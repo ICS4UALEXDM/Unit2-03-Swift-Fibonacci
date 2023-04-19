@@ -1,0 +1,7 @@
+Term #6 of the Fibonacci sequence is 8
+Term #22 of the Fibonacci sequence is 17711
+Term #12 of the Fibonacci sequence is 144
+Error: input cannot be negative
+Error: 1HHE is not valid for this program
+Term #4 of the Fibonacci sequence is 3
+Term #7 of the Fibonacci sequence is 13
